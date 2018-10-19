@@ -1,5 +1,7 @@
 # Assignment 1: Information Theory, TF Introduction and Dynamic Programming, oh my!
 
+[Download This Assignment](https://github.com/learn-co-students/information-theory-example-programming-blockchain-demo/archive/master.zip)
+
 This assignment consists of three unrelated parts (and approximate weight):
 
 * [Infomation Theory Review (/12)](information_theory.ipynb)
